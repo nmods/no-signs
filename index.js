@@ -5,10 +5,10 @@ module.exports=function nosigns(mod){
 	mod.command.add('signs', () => {
 		if (signsSpawned) {
 			despawnSigns()
-			command.message('signs despawned')
+			mod.command.message('signs despawned')
 		} else {
 			spawnSigns()
-			command.message('signs respawned')
+			mod.command.message('signs respawned')
 		}
 		signsSpawned = !signsSpawned
 	})

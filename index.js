@@ -2,7 +2,7 @@ module.exports=function nosigns(mod){
     let signs = {}
 	let signsSpawned = true
 
-	command.add('signs', () => {
+	mod.command.add('signs', () => {
 		if (signsSpawned) {
 			despawnSigns()
 			command.message('signs despawned')

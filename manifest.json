@@ -1,0 +1,10 @@
+{
+	"files": {
+		"index.js": "7636c10324cde5854cebd3454e0e04368f01006438a046870d65d945d7453f2a",
+		"module.json": "fff071a8d6349f6a7ecaff7b9f08eed7d17d6eefb8f0fbe59b117313d8cdb697"
+	},
+	"defs": {
+		"S_DESPAWN_BUILD_OBJECT": 2,
+		"S_SPAWN_BUILD_OBJECT": 2
+	}
+}

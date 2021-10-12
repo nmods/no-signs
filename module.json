@@ -1,0 +1,6 @@
+{
+	"disableAutoUpdate": false,
+	"author": "NMods",
+    "description": "hide/show all player-placed signs",
+	"servers": ["https://raw.githubusercontent.com/nmods/REPONAME/master/"]
+}
